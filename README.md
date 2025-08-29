@@ -1,10 +1,11 @@
 # FUTURE_DS_02
 
-📊 Social Media Campaign Performance Tracker
+📊 SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER
 
 This project is a comprehensive Power BI dashboard designed to monitor and analyze the performance of various social media marketing campaigns. It enables marketing teams and decision-makers to track campaign ROI, platform engagement, audience demographics, and more using rich, interactive visualizations.
 
 🖥️ Dashboard Pages
+
 1️⃣ Page: Social Media Campaign Overview
 
 This page offers a high-level summary of campaign health, engagement, and demographic insights.
@@ -28,7 +29,7 @@ This page offers a high-level summary of campaign health, engagement, and demogr
 
 💠 Conversion by Age Group (Clustered Column Chart)
 
-Age group 25–34 shows the highest number of conversions.
+# Age group 25–34 shows the highest number of conversions.
 
 💠Platform-wise Performance Table
 
